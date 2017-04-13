@@ -4,22 +4,22 @@ file_Server$2
 
 mostrarEncuesta$0
 
-file_UrlMiniIconoImagen_1$https://lh3.googleusercontent.com/pgFhQ-AzVVA1G2jpMSJ3VkT2PJXE9QWboj48pQylGQRR1C1QqoUFWcqSYdFsbYWhSg=w100
+file_UrlMiniIconoImagen_1$https://lh3.googleusercontent.com/i3OUc_SE4NKl44puHjf1QOSD9Www1hxlSlBjFmHspn6VtCYhRL4Qjr11Vt6Or6_vtTD-=w100
 file_UrlMiniIconoImagen_2$https://lh3.googleusercontent.com/msMTX2FY4JGTs7E7MwXX7lMQbOgNeV2feQfcd7oyz8tbu_oPsDEwx3k6HphAO_8kszg=w100
 file_UrlMiniIconoImagen_3$https://lh3.googleusercontent.com/r7hW_2jEKo6TLZMtkrdI-8lJrikqcb4hb4jteSZq3lYXGUUp_D1q2iWpMtBmDSh-MMg=w100
 file_UrlMiniIconoImagen_4$https://lh3.googleusercontent.com/KybizRNsIgnRY6z8NR2-2IJD6d0yeOtSh-GnK6i_hz7vTKF0GsNP5EbxfzTpgMbthUQ=w100
 file_UrlMiniIconoImagen_5$https://lh3.googleusercontent.com/pBpG196CEBamA6pFi-Au_UXKVClVGChaR9d0a7F76PQVv1tq3RH_z0gHEkEmO8GwEQ=w100
-file_UrlMiniIconoImagen_6$null
+file_UrlMiniIconoImagen_6$https://lh3.googleusercontent.com/pgFhQ-AzVVA1G2jpMSJ3VkT2PJXE9QWboj48pQylGQRR1C1QqoUFWcqSYdFsbYWhSg=w100
 file_UrlMiniIconoImagen_7$null
 file_UrlMiniIconoImagen_8$null
 file_UrlMiniIconoImagen_9$null
 
-file_PNMiniIconoApp_1$fr.x_studios.x_laser_2
+file_PNMiniIconoApp_1$com.copitogames.super_electric_screen
 file_PNMiniIconoApp_2$fr.x_studios.x_laser
 file_PNMiniIconoApp_3$fr.xapps.xgames.x2048
 file_PNMiniIconoApp_4$com.copitogames.tecno_tiles
 file_PNMiniIconoApp_5$com.copitogames.scary_app
-file_PNMiniIconoApp_6$null
+file_PNMiniIconoApp_6$fr.x_studios.x_laser_2
 file_PNMiniIconoApp_7$null
 file_PNMiniIconoApp_8$null
 file_PNMiniIconoApp_9$null
